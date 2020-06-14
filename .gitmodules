@@ -1,0 +1,4 @@
+[submodule "sb-repo"]
+	path = sb-repo
+	url = https://github.com/richagupta2357/sb-repo.git
+	branch = test
